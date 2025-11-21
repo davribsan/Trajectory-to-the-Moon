@@ -37,4 +37,4 @@ Specifically, it includes:
 1. Adjust mission parameters in `data/inputs.py`.
 2. Run the main script:  
    ```bash
-   python main.py
+    main.py
