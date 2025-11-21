@@ -38,3 +38,4 @@ Specifically, it includes:
 2. Run the main script:  
    ```bash
     main.py
+3. The results will not be shown on screen, however they will be saved locally in the same folder under the name **Trajectory_delta_v.txt**.
